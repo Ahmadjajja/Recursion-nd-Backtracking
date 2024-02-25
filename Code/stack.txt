@@ -1,0 +1,11 @@
+Stack is a data structure -> Last In First Out (LIFO)
+
+
+
+=        =  -- 6
+=        =  -- 5
+=        =  -- 4
+=        =  -- 3
+=        =  -- 2
+=        =  -- 1
+=========
