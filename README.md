@@ -19,15 +19,15 @@ Recursion is a programming technique that allows a function to call itself repea
    - Utilize pen and paper to draw trees and pointers repeatedly.
 5. Observe value returns at each step and identify the exit points.
 
-## Benefits of Recursion
-- Concise and understandable code.
-- Efficient solution for problems with recursive structure.
-
 ## When to Use Recursion
 Use recursion when the problem has a recursive structure and can be broken down into similar subproblems.
 
 ## When Not to Use Recursion
 Avoid recursion for problems lacking a recursive structure, as it can lead to inefficiency.
+
+## Benefits of Recursion
+- Concise and understandable code.
+- Efficient solution for problems with recursive structure.
 
 
 
