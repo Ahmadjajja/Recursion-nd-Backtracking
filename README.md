@@ -1,5 +1,11 @@
 # Recursion in Programming
 
+### Day 1 Recording
+[Watch Day 1 Recording](https://fb.watch/qAGlgOd-1o/)
+
+### Day 2 Recording
+[Watch Day 2 Recording](https://fb.watch/qAGlgOd-1o/)
+
 ## Introduction
 Recursion is a programming technique that allows a function to call itself repeatedly. It's particularly useful for solving problems that have a recursive structure.
 
