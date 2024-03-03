@@ -1,4 +1,4 @@
-# Beyond Basics: Mastering Advanced Recursion & Backtracking Techniques || Workshops
+# Beyond Basics: Mastering Advanced Recursion & Backtracking Techniques
 
 ### Day 1 Recording
 [Watch Day 1 Recording](https://www.facebook.com/iCodeguru/videos/921638522962563/)
