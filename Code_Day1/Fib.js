@@ -12,7 +12,7 @@ function fib(f) {
         return f - 1;
     }
 
-    return fib(f - 1) + fib(f - 2);
+    return fib(f - 1) + fib(f - 2);         // recurrence relation
 }
 
 

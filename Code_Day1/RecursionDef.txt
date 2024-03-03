@@ -18,15 +18,12 @@ function sum(n){
         console.log(n)
         return 
     }
-    console.log(n)  // 1, 2, 3, 4, 5, 6, ....
+    console.log(n)  // 1, 2, 3, 4, 5
+    
     sum(n + 1);
-
-    return
-
 }
 
 
-=        =  -- 6
 =        =  -- 5
 =        =  -- 4
 =        =  -- 3
